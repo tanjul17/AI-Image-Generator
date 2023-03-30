@@ -1,0 +1,37 @@
+DALL-E 2.0 - AI IMAGE Generator
+
+Tech we use - 
+    -->vite-react
+    -->tailwind CSS
+    -->DALL-E api
+    -->
+    -->cloudynary for image save
+
+
+make new folder - AI Image Generator.
+make - client folder
+
+vite-react ---> npm create vite@latest ./
+select --> react --> js
+then --> npm i
+
+install tailwind 
+--> npm install -D tailwindcss postcss autoprefixer
+--> npx tailwindcss init -p
+
+npm package 
+--> npm i file-saver       
+--> npm i react-router-dom 
+--> npm run dev 
+
+now write code and file set-up
+--> constants folder 
+    --> index.js
+--> pages folder
+    -->Home.jsx
+    -->CreatePost.jsx
+    -->index.js
+--> components
+    -->Card.jsx
+    
+
